@@ -30,7 +30,7 @@ I'm Chukwunonso " 'Nonso " Omoko, a Mechanical Engineering student passionate ab
 📫 **Contact Me:**
 
 - 📧 Email: nonsoomoko@gmail.com
-- 🔗 LinkedIn: [Chukwunonso Omoko](www.linkedin.com/in/chukwunonso-omoko)
+- 🔗 LinkedIn: [Chukwunonso Omoko](https://www.linkedin.com/in/chukwunonso-omoko/)
 - 🔗 GitHub: [NonsoOmoko](github.com/NonsoOmoko)
 
 🌟 **Let's Connect:**
