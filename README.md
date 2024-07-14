@@ -1,7 +1,3 @@
-Certainly! Here's a README template for your GitHub profile:
-
----
-
 # Chukwunonso Omoko
 
 👋 Hi there! Welcome to my GitHub profile.
