@@ -37,9 +37,6 @@ I'm Chukwunonso "Nonso" Omoko, a Mechanical Engineering student passionate about
 
 I'm always eager to collaborate on exciting data projects or discuss data analysis techniques. Feel free to reach out and let's spark some data-driven brilliance together!
 
----
-
-Feel free to customize it further with additional sections or details about your projects and interests!
 
 <!---
 NonsoOmoko/NonsoOmoko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
