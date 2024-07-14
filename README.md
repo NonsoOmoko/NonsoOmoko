@@ -6,7 +6,7 @@ Certainly! Here's a README template for your GitHub profile:
 
 👋 Hi there! Welcome to my GitHub profile.
 
-I'm Chukwunonso " 'Nonso " Omoko, a Mechanical Engineering student passionate about data analysis and Python programming. Here, you'll find a collection of my data analysis projects, Python scripts, and more.
+I'm Chukwunonso " Nonso " Omoko, a Mechanical Engineering student passionate about data analysis and Python programming. Here, you'll find a collection of my data analysis projects, Python scripts, and more.
 
 🔍 **Explore My Projects:**
 
